@@ -1,6 +1,6 @@
 # unit_testing_practice 
 
-Parts actions:
+Parts of actions:
 1. Action
 2. Workflow - 
 3. Event - Trigger for workflow to start
