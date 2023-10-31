@@ -16,3 +16,5 @@ random.shuffle(deck)
 # Draw 5 cards and display them
 for i in range(5):
     print(deck[i])
+
+# Added comment to test git
